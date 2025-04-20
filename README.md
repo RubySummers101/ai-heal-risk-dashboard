@@ -1,4 +1,4 @@
-# ai-heal-risk-dashboard
+# ai-health-risk-dashboard
 This project demonstrates how AI and data analysis can help identify early indicators of health risk based on synthetic patient data.
 
 ## Purpose
