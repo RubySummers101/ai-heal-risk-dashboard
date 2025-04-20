@@ -1,5 +1,5 @@
 # ai-health-risk-dashboard
-This project demonstrates how AI and data analysis can help identify early indicators of health risk based on synthetic patient data.
+This project demonstrates how AI and data analysis can help identify early indicators of health risk based on synthetic patient data. 
 
 ## Purpose
 Delayed diagnoses cost lives. This project simulates how AI can assist clinicians and patients in recognizing patterns earlier—giving people a better chance at timely intervention.
