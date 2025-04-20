@@ -19,3 +19,21 @@ My own experience with delayed diagnosis and systemic gaps in medical care. I'm 
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/brenriley/)
+
+### Featured Demo: Health Risk Analysis Notebook
+
+This project includes a [Jupyter Notebook](./health_risk_analysis_demo.ipynb) that demonstrates how AI can be applied to identify early health risk indicators using synthetic patient data.
+
+#### Notebook Highlights:
+- Loads and analyzes a synthetic dataset of 100 patients
+- Calculates a simple risk score based on blood pressure, glucose, BMI, age, and family history
+- Flags high-risk patients for early intervention
+- Includes clean visualizations and markdown explanations
+- Reinforces how ethical AI can support timely, life-saving decisions
+
+This notebook reflects a broader goal: using secure, explainable AI to reduce diagnostic delays and improve patient outcomes — especially in high-risk or underserved populations.
+
+---
+
+### Dataset:
+- [synthetic_health_data.csv](./synthetic_health_data.csv): Contains age, blood pressure, glucose level, BMI, family history, and risk scoring for each patient (fully anonymized and synthetic).
